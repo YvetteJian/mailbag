@@ -1,0 +1,18 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "auth": {
+      "user": "xiaowensun0212@gmail.com",
+      "pass": "ejcxrhgrmrnehtbj"
+    }
+  },
+  "imap": {
+    "host": "imap.gmail.com",
+    "port": 993,
+    "auth": {
+      "user": "xiaowensun0212@gmail.com",
+      "pass": "ejcxrhgrmrnehtbj"
+    }
+  }
+}
